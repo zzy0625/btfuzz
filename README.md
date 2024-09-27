@@ -1,7 +1,9 @@
 安装编译
+
 sudo gcc -o bt-fuzzer bt-fuzzer.c -lbluetooth
 
 报错头文件缺失执行
+
 apt-get update
 
 apt-get install libbluetooth-dev
