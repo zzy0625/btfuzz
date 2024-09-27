@@ -1,3 +1,6 @@
+用于蓝牙设备的模糊测试工具，基于马老师给的脚本加了日志功能
+
+
 安装编译
 
 sudo gcc -o bt-fuzzer bt-fuzzer.c -lbluetooth
